@@ -2,10 +2,13 @@
 WELCOME TO THE PEOPLE BROKERAGE REPOSITORY
 ******************************************
 
-Glad to have you here! People is working to create an open-source retail brokerage. After what we saw on January 28th with many retail brokerages halting and limiting the buy orders on stocks like GME AMC & NOK, we took it upon ourselves to create a brokerage by the People, for the People. We pride ourselves on being decentralized and transparent.
+Glad to have you here! People is working to create an open-source retail brokerage. After what we saw on January 28th with many retail brokerages halting and 
+limiting the buy orders on stocks like GME AMC & NOK, we took it upon ourselves to create a brokerage by the People, for the People. We pride ourselves on being
+decentralized and transparent.
 
 Decentralized: No ties to Wall Street investment firms. We've seen how manipulative these folks are toward retail traders and we're not for it one bit.
-Transparent: We promise to be as transparent as possible, not hiding behind fancy legal business jargon and making excuses for ourselves. If we mess up, we'll let you know quick!
+Transparent: We promise to be as transparent as possible, not hiding behind fancy legal business jargon and making excuses for ourselves. If we mess up, we'll 
+let you know quick!
 
 
 That's just who we are though, here's what we plan to offer:
